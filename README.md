@@ -1,11 +1,11 @@
-# Welcome to My Data Analytics and Programming Portfolio
+# Welcome
 
 Hello, and thank you for visiting my GitHub repository! This repository serves as a showcase of my work in the fields of data analytics, database management, programming, and more.
 
 ## About Me
 
 - I am currently a postgraduate business school student passionate about data analytics, database management, and programming.
-- While my primary focus is still on my accounting major studies, I aspire to leverage these skills to enhance the quality and efficiency of my work and studies and, if possible, to find new opportunities in my career development.
+- While my primary focus is on my accounting major studies, I aspire to leverage these skills to enhance the quality and efficiency of my work and studies, and, if possible, to find new opportunities in my career development.
 - I believe in continuous learning and personal development, and this repository reflects my journey of acquiring new skills.
 
 ## About the Repository
@@ -15,7 +15,7 @@ Hello, and thank you for visiting my GitHub repository! This repository serves a
 
 ## What You'll Find Here
 
-In this repository, you'll discover a collection of projects and code samples that highlight my capabilities in the following areas:
+In this repository, you'll discover a collection of projects, notes, and code samples that highlight my explorations in various areas. To learn more about each folder:
 
 - **MP0001**: Introductory coding in Python and data analytics with Python.
 - **dataBase**: Exploration of both MySql and MongoDB.
