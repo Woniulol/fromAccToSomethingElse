@@ -1,0 +1,17 @@
+three classes
+    Dog, Cat, Person
+attr:
+    Dog: name, age(default1)
+    Cat: name, age(default1)
+    Person: name, age(default1), pets
+method:
+    Dog: eat, play, sleep, job_watch
+    Cat: eat, play, sleep, job_catch
+    Person: eat, play, sleep
+class method:
+    pet_care: let all pets eat, play and / or sleep
+    pet_action: let all pets do their job
+
+通过代码解决问题
+1. 有开发经验的：根据自己的开发经验决定如何开发 --> 在通过代码实现
+2. 没有开发经验：先通过代码来实现能够想到的问题 --> 检测和发现问题 --> 进一步优化
