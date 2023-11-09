@@ -1,0 +1,12 @@
+2023-11-09 23:18:38 |    DEBUG | my_logging_5.py : 11 | this is applog, debug
+2023-11-09 23:20:29 |    DEBUG | my_logging_5.py : 11 | this is applog, debug
+2023-11-09 23:20:29 |    ERROR | my_logging_5.py : 17 | name 'abc' is not defined
+2023-11-09 23:20:54 |    DEBUG | my_logging_5.py : 11 | this is applog, debug
+2023-11-09 23:20:54 |    ERROR | my_logging_5.py : 17 | invalid literal for int() with base 10: 'abc'
+2023-11-09 23:21:09 |    DEBUG | my_logging_5.py : 11 | this is applog, debug
+2023-11-09 23:21:09 |    ERROR | my_logging_5.py : 17 | invalid literal for int() with base 10: 'abc'
+2023-11-09 23:21:09 |    ERROR | my_logging_5.py : 18 | invalid literal for int() with base 10: 'abc'
+Traceback (most recent call last):
+  File "/Users/jiananwang/pycharm_projects/my_logging/my_logging_5.py", line 15, in <module>
+    int(a)
+ValueError: invalid literal for int() with base 10: 'abc'

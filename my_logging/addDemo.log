@@ -1,0 +1,4 @@
+2023-11-09 22:49:34,406 |     INFO | my_logging_4.py : 62 | this is info log
+2023-11-09 22:49:34,406 |  WARNING | my_logging_4.py : 63 | this is warning log
+2023-11-09 22:49:34,406 |    ERROR | my_logging_4.py : 64 | this is error log
+2023-11-09 22:49:34,407 | CRITICAL | my_logging_4.py : 65 | this is critical log
